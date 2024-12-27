@@ -1,0 +1,10 @@
+[INFO ] 2024-12-14 22:19:05.409 [main] TC001_RegistrationTest - ****Jpet Store****
+[INFO ] 2024-12-14 22:19:06.990 [main] TC001_RegistrationTest - ****Registration Started****
+[INFO ] 2024-12-14 22:19:09.201 [main] TC001_RegistrationTest - ****Registration successfully completed.****
+[INFO ] 2024-12-14 22:19:09.202 [main] TC001_RegistrationTest - We've just greeted the user!
+[WARN ] 2024-12-14 22:19:09.202 [main] TC001_RegistrationTest - We've just greeted the user!
+[ERROR] 2024-12-14 22:19:09.202 [main] TC001_RegistrationTest - We've just greeted the user!
+[FATAL] 2024-12-14 22:19:09.202 [main] TC001_RegistrationTest - We've just greeted the user!
+[INFO ] 2024-12-14 22:32:00.094 [main] TC001_RegistrationTest - ****Jpet Store****
+[INFO ] 2024-12-14 22:32:01.423 [main] TC001_RegistrationTest - ****Registration Started****
+[INFO ] 2024-12-14 22:32:04.263 [main] TC001_RegistrationTest - ****Registration successfully completed.****

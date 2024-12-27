@@ -1,0 +1,25 @@
+11:00:02.205 [main] INFO  testCases.TC001_RegistrationTest-****Jpet Store****
+11:00:04.957 [main] INFO  testCases.TC001_RegistrationTest-****Registration Started****
+11:00:09.826 [main] INFO  testCases.TC001_RegistrationTest-****Registration successfully completed.****
+16:32:32.597 [main] INFO  testCases.TC001_RegistrationTest-****Jpet Store****
+16:32:34.902 [main] INFO  testCases.TC001_RegistrationTest-****Registration Started****
+16:32:40.863 [main] INFO  testCases.TC001_RegistrationTest-****Registration successfully completed.****
+19:49:10.171 [main] INFO  testCases.TC001_RegistrationTest-****Jpet Store****
+19:49:12.643 [main] INFO  testCases.TC001_RegistrationTest-****Registration Started****
+19:49:14.892 [main] INFO  testCases.TC001_RegistrationTest-****Registration successfully completed.****
+13:42:07.704 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest-****Jpet Store****
+13:42:32.565 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest-****Jpet Store****
+13:42:37.388 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest-****Registration Started****
+13:42:41.864 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest-****Registration successfully completed.****
+13:43:34.095 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest-****Jpet Store****
+13:43:36.596 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest-****Registration Started****
+13:43:42.592 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest-****Registration successfully completed.****
+13:46:24.959 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest-****Jpet Store****
+13:46:24.959 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest-****Jpet Store****
+13:46:31.043 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest-****Jpet Store****
+13:46:33.322 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest-****Registration Started****
+13:46:38.449 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest-****Registration successfully completed.****
+13:51:31.056 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest-****Jpet Store****
+13:51:39.256 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest-****Jpet Store****
+13:51:41.667 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest-****Jpet Store****
+13:51:46.137 [TestNG-tests-3] INFO  testCases.TC001_RegistrationTest-****Registration Started****
